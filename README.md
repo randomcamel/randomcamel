@@ -1,4 +1,10 @@
-### Hi there 👋
+### Software Is People
+
+I'm an Engineering Manager, because that's where I can do the most good, and because I find systems of humans more compelling than systems of software.
+
+I believe everyone has a right to be who they are, but not the right to hurt everyone else. This turns out to be "political" in some contexts, but I didn't make it so, and I'm not going to back off the basic human right to exist and grow. I hope that's okay.
+
+I try to keep my profile down to "Medium," but you can find me on [LinkedIn](https://www.linkedin.com/in/arbitrary/).
 
 <!--
 **randomcamel/randomcamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
